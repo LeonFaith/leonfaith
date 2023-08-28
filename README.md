@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently Learning Ansible and network automation ...
+- 📫 How to reach me: nwyye.leon@gmail.com
+- ⚡ Fun fact: 🏀 🎬 📖 
 
 <!--
 **LeonFaith/leonfaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
